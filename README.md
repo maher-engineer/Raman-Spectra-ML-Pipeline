@@ -33,3 +33,4 @@ The pipeline utilizes a **5-Fold Cross-Validation** strategy to ensure model rob
 - `main.py`: The core executable Python pipeline script.
 - `requirements.txt`: Environment dependencies.
 - `pls_model.joblib`: The production-ready serialized model artifact.
+- <img width="1539" height="449" alt="Image" src="https://github.com/user-attachments/assets/70ac0537-8493-4942-94d4-ae72536f1a27" />
