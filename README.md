@@ -32,6 +32,7 @@ The pipeline utilizes a **5-Fold Cross-Validation** strategy to ensure model rob
 ## 📂 Project Structure
 - `main.py`: The core executable Python pipeline script.
 - `requirements.txt`: Environment dependencies.
-[Spectral Processing Stages](spectral_processing_stagespng.png)
+![Spectral Processing Stages](https://github.com)
+
 
 - `pls_model.joblib`: The production-ready serialized model artifact.
